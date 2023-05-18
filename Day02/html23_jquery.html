@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>JQuery</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js" 
+    integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" 
+    crossorigin="anonymous"></script>
+    <script>
+        
+        // jQuery로 온로드할때 방식
+        $(document).ready(function(){
+           // 여기에 로직을 적으면됨
+           $('input').click(function(){
+                $('.page').Toggle(1000);
+           });
+
+           $('.box').css({
+            width: '100px',
+            height: '100px',
+            backgroundColor: 'red'
+           }).delay(1000)
+           .animate({
+            width: '500px',
+            opacity : 0.5
+           }, 1500);
+        });
+    </script>
+</head>
+<body>
+    <input type="button" value="Toggle">
+    <div class="page">
+        <h1>Lorem ipsum dolor sit amet.</h1>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus maiores vitae magnam, ipsam quidem at iusto, nemo quasi ab reprehenderit modi voluptatem, quas officia aperiam laborum soluta dolores quam cumque nulla illum aliquam maxime non obcaecati nostrum! Vero ipsum aperiam aut maiores vitae expedita veritatis soluta. Libero repellendus incidunt expedita magni placeat voluptates veritatis distinctio itaque consequatur, totam laudantium reiciendis laborum amet qui explicabo quia? Magnam quos distinctio corporis commodi. Eum delectus laboriosam molestias ab explicabo rem, consequuntur consequatur, aperiam voluptates veniam doloribus? Est, molestias quo, quia optio soluta laboriosam facilis natus tempore aliquid nulla reiciendis cum delectus rem tempora.</p>
+    </div>
+
+    <div class="box"></div>
+</body>
+</html>
