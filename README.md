@@ -23,8 +23,17 @@ ASP.NET 학습 리포지터리
 	
 Bootstrap 앨범사이트 클로닝
 
-<img src="https://raw.githubusercontent.com/Yong-Hwan-Lee/pknu_aspnet_2023/main/images/aspnet01.gif?raw=true" width="700"
+<img src="https://raw.githubusercontent.com/Yong-Hwan-Lee/pknu_aspnet_2023/main/images/aspnet01.gif" width="700">
 	
 핀터레스트스타일 페이지 클로닝
 
-<img src="https://raw.githubusercontent.com/Yong-Hwan-Lee/pknu_aspnet_2023/main/images/aspnet02.gif?raw=true" width="700"
+<img src="https://raw.githubusercontent.com/Yong-Hwan-Lee/pknu_aspnet_2023/main/images/aspnet02.gif" width="700">
+
+## 4일차
+- ASP.NET MVC
+	- ASP.NET 기본
+	- ASP.NET 프로젝트
+	
+ASP.NET Core MVC 게시판
+
+<img src="https://raw.githubusercontent.com/Yong-Hwan-Lee/pknu_aspnet_2023/main/images/aspnet03.png" width="700">
