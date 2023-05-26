@@ -41,13 +41,53 @@ ASP.NET Core MVC 게시판
 
 ## 5일차
 - ASP.NET MVC
-	- 게시판 페이징까지
+	- 게시판 페이징
+		
 	
 <img src="https://raw.githubusercontent.com/Yong-Hwan-Lee/pknu_aspnet_2023/main/images/aspnet04.gif" width="700">
 
 ## 6일차
 - ASP.NET MVC
 	- 게시판 정리
-	- 계정관리 추가
+	- 계정관리
+		- 회원관리
 	
 <img src="https://raw.githubusercontent.com/Yong-Hwan-Lee/pknu_aspnet_2023/main/images/aspnet05.gif" width="700">
+
+## 7일차
+- ASP.NET Core MVC
+	- 게시판 정리
+		- 아이디 삭제
+		- 게시판 번호
+	- 계정 및권한관리
+		- 사용자별 권한할당
+		- 관리자, 사용자분리
+		- 관리자 게시판글 모두 삭제가능
+		- 프로필 수정
+		
+	
+	
+- ASP.NET RestAPI
+- 개인포트폴리오
+	- 부트스트랩 테마 재적용
+	
+## 8일차
+- ASP.NET Core MVC
+	- 부트스트랩 테마(SEO Dream) 적용
+	
+<img src="https://raw.githubusercontent.com/Yong-Hwan-Lee/pknu_aspnet_2023/main/images/aspnet06.gif" width="700">	
+	
+	
+## 9일차
+- ASP.NET Core MVC
+	- SEO DREAM 테마완료
+- ASP.NET RestAPI
+	- RestAPI Server
+	- WPF Client
+	
+## 10일차
+- ASP.NET RestAPI
+	- RestAPI Server
+	- WPF Client	
+- 개인포트폴리오
+	- 부트스트랩 테마 재적용

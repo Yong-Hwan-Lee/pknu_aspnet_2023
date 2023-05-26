@@ -1,0 +1,33 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/* 나눔폰트 클래스*/
+.nanum-bold{
+    font-family :'NanumGothic';
+    font-weight:800;
+}
+.nanum-middle {
+    font-family: 'NanumGothic';
+    font-weight: 700;
+}
+
+.nanum {
+    font-family: 'NanumGothic';
+    font-weight: 400;
+}
