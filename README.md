@@ -93,6 +93,13 @@ ASP.NET Core MVC 게시판
 ## 10일차
 - ASP.NET RestAPI
 	- RestAPI Server
+	- RestAPI Server
 	- WPF Client	
 - 개인포트폴리오
 	- 부트스트랩 테마 재적용
+	
+	
+## 11일차
+- ASP.NET RestAPI
+	- RestAPI 체크
+	- FrontEnd Server 작업
